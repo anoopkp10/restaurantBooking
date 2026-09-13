@@ -1,0 +1,6 @@
+{
+  "name": "Aryas Restaurant",
+  "description": "Modern fine dining restaurant offering artisanal cuisine, online table reservations, curated menus, chef specialties, and full administrative CMS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
